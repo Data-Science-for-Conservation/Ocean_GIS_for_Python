@@ -1,6 +1,6 @@
 # Using GIS in Python with Wreck Data
 
-Code and presentation for the NH Python meetup given December 2021:
+Code and presentation for the [NH Python meetup](https://www.meetup.com/New-Hampshire-Python-Group/events/qxqqtryccqbfc/) given December 2021:
 
 > This month’s presentation with Heather Kusmierz is an introduction to working with geospatial data in Python using GeoPandas and folium. She'll introduce the basics of working with geospatial data including data models, common file formats, and some light theory on spatial reference systems and projections. Then she'll walk through a code demo to re-construct the search for a 100+-year-lost shipwreck that was discovered this summer by Eastern Search & Survey off the coast of Long Island, which will serve as a framework to demonstrate some common spatial analysis tasks.
 
